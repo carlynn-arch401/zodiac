@@ -18,7 +18,6 @@
     <a id="animated" onclick="zodiac()"  class="button">Enter </a>
     <p id="photo"></p>
     <p id= "space"> Your zodiac sign is <span id="output"></span> </p>
-    
-    
+    <p id="characteristic"></p>
 </body>
 </html>
