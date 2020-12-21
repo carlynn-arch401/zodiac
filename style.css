@@ -9,7 +9,7 @@ body{
     text-align:center;
     text-shadow: 0 0 15px #FF6EC7;
     text-size-adjust: bold;
-    text-color: white;
+    text-color: #FFD700;
    }
 #animated{
      animation-name: move;
