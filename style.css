@@ -1,6 +1,5 @@
 
 body{  
-
     background-image: url(stars.jpg);
     background-repeat: no-repeat;
     background-position: cover;
@@ -12,21 +11,23 @@ body{
     text-size-adjust: bold;
     text-color: white;
    }
-   
-    #animated{
+#animated{
      animation-name: move;
      animation-duration: 5s;
      animation-timing-function: ease-in-out;
      animation-iteration-count: infinite;
      animation-direction: alternate;
    }
-   
-   
-   #space{
+#characteristic {
+     margin: auto;
+     width: 60%;
+     color:rgb(255, 255, 0);
+     padding: 21px;
+   }
+#space{
      font-size:25px;
    }
-      
-   a.button {
+a.button {
     background: linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%);
     border-radius: 7px;
     margin-bottom:70px;
@@ -39,10 +40,8 @@ body{
     -webkit-transition: box-shadow 3s ease;
     transition: box-shadow 3s ease;
    }
-
-    a.button:hover {
+a.button:hover {
     box-shadow: 0px 4px 4px rgba(33,62,66,.5);
     -webkit-transition: box-shadow 1s ease;
     transition: box-shadow 1s ease; 
-    }
-
+   }
