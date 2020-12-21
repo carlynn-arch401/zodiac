@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
-    <title>Zodiac Sign</title>
+    <title> Zodiac Sign </title>
 </head>
 
 <body>
@@ -19,7 +19,6 @@
     <p id="photo"></p>
     <p id= "space"> Your zodiac sign is <span id="output"></span> </p>
     
-    <p id="characteristic"></p>
     
 </body>
 </html>
